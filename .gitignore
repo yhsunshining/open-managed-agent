@@ -19,5 +19,8 @@ agent.sandbox.yaml
 # CocoIndex Code (ccc) — local semantic index
 .cocoindex_code/
 
+# CodeGraph — local AST graph (*.db ignored inside .codegraph/.gitignore)
+.codegraph/
+
 # Cursor — local IDE config (not shared)
 .cursor/
